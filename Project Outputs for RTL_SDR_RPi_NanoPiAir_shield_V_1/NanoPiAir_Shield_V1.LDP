@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\RTL-SDR_Raspberry\Altium\Version1\RTL_SDR_RPi_NanoPiAir_shield_V_1\NanoPiAir_Shield_V1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nanopiair_shield_v1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nanopiair_shield_v1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

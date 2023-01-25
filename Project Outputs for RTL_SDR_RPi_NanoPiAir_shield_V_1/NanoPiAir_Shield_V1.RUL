@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: Z:\RTL-SDR_Raspberry\Altium\Version1\RTL_SDR_RPi_NanoPiAir_shield_V_1\NanoPiAir_Shield_V1.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance Top Layer|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance Bottom Layer|Scope=Board|Minimum=8.00

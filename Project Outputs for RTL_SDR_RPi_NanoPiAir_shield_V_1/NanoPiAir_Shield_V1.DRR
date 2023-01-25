@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NanoPiAir_Shield_V1.PcbDoc   17.12.2022  8:10:49
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : NanoPiAir_Shield_V1-RoundHoles.TXT
+ASCII SlotHoles File : NanoPiAir_Shield_V1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             255       PTH        16.97inch (431.13mm)
+T2      24mil (0.599mm)                                           Slot              8         PTH        4.80inch (121.94mm)
+T3      37mil (0.95mm)                                            Round             48        PTH        7.51inch (190.72mm)
+T4      126mil (3.2mm)                                            Round             4         PTH        4.18inch (106.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              315
+
+Total Processing Time (hh:mm:ss) : 00:00:00
